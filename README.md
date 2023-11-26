@@ -35,5 +35,5 @@
 ### Launch Template
 ![launch-template](launchtemplate.PNG)
 ### Auto Scaling Group
-![scaling-group](loadbalancer.PNG)
+![scaling-group](autoscalling.PNG)
 
